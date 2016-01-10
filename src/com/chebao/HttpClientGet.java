@@ -15,7 +15,7 @@ import java.io.IOException;
  * HttpClient进行Get通信
  * 下载:http://hc.apache.org/  -> Download  -> HttpClient 4.5.1
  */
-public class Main {
+public class HttpClientGet {
 
 
     public static void main(String[] args) {
